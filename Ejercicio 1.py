@@ -5,7 +5,7 @@ def nombre_del_usuario (nombre):
     parametro:
     -nombre: Nombre de un usuario cualquiera pedida anteriormente
     salida:
-        Un mensaje de bienvenida + el nombre del usuario"""
+        Un mensaje de "Hola" + el nombre del usuario"""
     print ("¡Hola", nombre + "!")
     return
 nombre_del_usuario (nombre)
